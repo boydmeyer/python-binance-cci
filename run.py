@@ -1,6 +1,6 @@
 from models.Scanner import Scanner
 
-s = Scanner("test", "test")
+s = Scanner("api_key", "api_secret")
 SYMBOLS = ["BNBBTC", "ETHBTC", "TRXBTC", "LTCBTC", "BTTBTC"]
 
 for SYMBOL in SYMBOLS:

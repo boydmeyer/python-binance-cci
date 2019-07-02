@@ -2,4 +2,5 @@
 Commodity Channel Index
 
 uses https://github.com/sammchardy/python-binance
-pip install python-binance
+
+  pip install python-binance
